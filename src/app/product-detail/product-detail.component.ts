@@ -12,6 +12,8 @@ export class ProductDetailComponent implements OnInit {
   ngOnInit() {
   }
 
-  productId = 1234;
+  productId1 = 1234;
+  productId2 = 1235;
+  productId3 = 1236;
   sellerId = 5678;
 }
